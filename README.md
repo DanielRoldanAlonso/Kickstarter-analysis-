@@ -1,16 +1,18 @@
 # An Analysis of Kickstarter Campaigns
 
-## In this project, we are analyzing the outcomes based on launch date for theaters and then the outcomes based on goals for plays. 
+## Overview 
 
-### We are helping Louise understand how different campaigns fared in relation to their launch dates and their funding goals. This is all to visualize campaign performances to improve decision making. 
+In this project, we are analyzing the outcomes based on launch date for theaters and then the outcomes based on goals for plays. We are helping Louise understand how different campaigns fared in relation to their launch dates and their funding goals. This is all to visualize campaign performances to improve decision making. To help Luoise, we will be conducting our analysis by creating and utilizing multiple tools on Excel. Through these tools, we can gather, organize, and display data to determine the relationship of these campaigns.
 
-### To help Luoise, we will be conducting our analysis by creating and utilizing multiple tools on Excel. Through these tools, we can gather, organize, and display data to determine the relationship of these campaigns.
+## Analysis and Challenges
 
-### The first deliverable was to find the outcomes based on launch dates. To have more data, we added a "Year" column to the sheet to have the ability to see the outcomes of plays by month in any given year. Then by using a pivot table, we can organize our information to identify the total amount of campaigns that succeeded, failed, and canceled at every month throughout Louise's lifetime. To better understand which months perform better, we create a line chart from the table to organize the data in a much more visual way. 
+The first deliverable was to find the outcomes based on launch dates. To have more data, we added a "Year" column to the sheet to have the ability to see the outcomes of plays by month in any given year. Then by using a pivot table, we can organize our information to identify the total amount of campaigns that succeeded, failed, and canceled at every month throughout Louise's lifetime. To better understand which months perform better, we create a line chart from the table to organize the data in a much more visual way. 
 
-### The second deliverable was to find the outcomes based on goals for plays. 
+![Outcomes Based on Launch](Resources/Theater_Outcomes_vs_Launch.PNG)
 
-###
+The second deliverable was to find the outcomes based on goals for plays. 
+
+![Outcomes Based on Launch](Resources/Outcomes_vs_Goals.PNG)
 
 ## Results
 
